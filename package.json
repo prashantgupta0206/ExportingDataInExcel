@@ -1,0 +1,14 @@
+{
+  "name": "writedata",
+  "version": "1.0.0",
+  "description": "writedata",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.13.1"
+  }
+}
